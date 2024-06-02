@@ -1,0 +1,33 @@
+#contenedor {
+
+    height: 700px;
+    width: 800px;
+
+}
+
+#cabecera {
+
+    background-color: gray;
+    height: 80px;
+    width: 800px;
+}
+
+#banner {
+    width: 800px;
+    height: 210px;
+    background-color: red;
+}
+
+#contenido {
+    width: 800px;
+    height: 340px;
+    background-color: yellow;
+}
+
+#pie {
+    width: 800px;
+    height: 120px;
+    background-color: aqua;
+    text-align: center;
+
+}
